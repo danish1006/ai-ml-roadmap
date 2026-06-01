@@ -1,0 +1,45 @@
+input_path: input/data.csv
+output_path: output/processed.csv
+
+categories:
+
+  Food:
+    - swiggy
+    - zomato
+
+  Shopping:
+    - amazon
+    - amazon pay
+    - flipkart
+    - big bazaar
+
+  Transport:
+    - uber
+    - irctc
+
+  Income:
+    - salary
+
+  Entertainment:
+    - netflix
+    - bookmyshow
+
+  Healthcare:
+    - medical
+    - hospital
+    - pharmacy
+
+  Utilities:
+    - electricity
+    - mobile recharge
+
+  Housing:
+    - rent
+
+  Insurance:
+    - insurance
+
+  Refund:
+    - refund
+    - reversal
+    - cashback

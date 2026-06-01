@@ -1,0 +1,25 @@
+merchant,amount
+Amazon,1500
+Amazon Pay,850
+Flipkart,2200
+Swiggy,250
+Zomato,430
+Uber,450
+IRCTC,1250
+Salary,60000
+Netflix,649
+Medical Store,1800
+Refund,-500
+Cashback,-100
+Reversal,-250
+Unknown Merchant,999
+ABC,xyz
+,1000
+Big Bazaar,3500
+Electricity Bill,2200
+Mobile Recharge,699
+Rent,18000
+Insurance Premium,5200
+Hospital,7500
+Pharmacy,950
+BookMyShow,1200
